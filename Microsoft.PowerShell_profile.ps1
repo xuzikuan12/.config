@@ -13,10 +13,8 @@ function lg {
 }
 
 # Scoop
-function scoop-status {scoop status}
-function scoop-update {scoop update *}
-Set-Alias ss scoop-status
-Set-Alias ud scoop-update
+function ss {scoop status}
+function ud {scoop update *}
 
 # Direction
 function work {cd D:\codes}
@@ -28,10 +26,7 @@ function config {cd C:\Users\xuzik\OneDrive\Documents\.config}
 
 # C4
 function c4 {
-	cd 'D:\Program Files\bili'
+	cd "D:\Program Files\bili"
 	.\c4.bat
 }
-
-
-
 
