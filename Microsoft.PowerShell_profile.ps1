@@ -7,12 +7,10 @@ If (-Not (Test-Path Variable:PSise)) {  # Only run this in the console and not i
 }
 
 # Git
-function git-status {git status}
-function git-log-12 {
+function gs {git status}
+function lg {
 	git log --color --pretty=format:"%C(yellow)%h%Creset -%Cred%d%Creset %s %Cgreen(%ar)%Creset %C(bold blue)<%an>%Creset" -12 --graph
 }
-Set-Alias gs git-status
-Set-Alias lg git-log-12
 
 # Scoop
 function scoop-status {scoop status}
