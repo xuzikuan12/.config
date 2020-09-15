@@ -26,7 +26,7 @@ function config {cd C:\Users\xuzik\OneDrive\Documents\.config}
 
 # C4
 function c4 {
-	cd "D:\Program Files\bili"
+	cd "D:\Program Files\bili_1.2.6.36"
 	.\c4.bat
 }
 
