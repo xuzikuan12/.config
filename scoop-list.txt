@@ -5,8 +5,7 @@ Installed apps:
   crystaldiskinfo 8.8.5 *hold* [extras]
   dark 3.11.2 *global*
   dark 3.11.2
-  dirhash 1.11.0
-  dismplusplus 10.1.1001.10 [extras]
+  dirhash 1.12.0
   dotnet-sdk 3.1.402
   everything 1.4.1.988 [extras]
   ffmpeg 4.3.1
@@ -22,7 +21,6 @@ Installed apps:
   listary 5.00.2843 *hold* [extras]
   notepadplusplus 7.8.9 [extras]
   openvpn 2.4.9 [extras]
-  potplayer 200908 [extras]
   powertoys 0.21.1 [extras]
   pycharm 2020.2.1 *hold* [extras]
   python 3.8.5 *global* *hold*
@@ -32,8 +30,10 @@ Installed apps:
   sudo 0.2020.01.26
   syncbackfree 9.4.1.1 *hold* [extras]
   telegram 2.3.0 [extras]
-  typora 0.9.95 [extras]
+  transmission 3.00 [extras]
+  typora 0.9.96 [extras]
   unlocker 1.9.0 [extras]
+  vlc 3.0.11 [extras]
   windows-terminal 1.2.2381.0 [extras]
   winscp 5.17.7 [extras]
 
