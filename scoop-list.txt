@@ -30,7 +30,6 @@ Installed apps:
   sudo 0.2020.01.26
   syncbackfree 9.4.1.1 *hold* [extras]
   telegram 2.3.0 [extras]
-  transmission 3.00 [extras]
   typora 0.9.96 [extras]
   unlocker 1.9.0 [extras]
   vlc 3.0.11 [extras]
