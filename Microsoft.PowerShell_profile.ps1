@@ -23,6 +23,7 @@ function page {cd D:\Codes\GitPage\xuzikuan12.github.io}
 function test {cd D:\Codes\Test}
 function jike {cd D:\Codes\Python\JiKeDownloader}
 function config {cd C:\Users\xuzik\OneDrive\Documents\.config}
+function storage {cd 'C:\Users\xuzik\OneDrive - mail.ustc.edu.cn\Backup\bilibili'}
 
 # C4
 function c4 {
