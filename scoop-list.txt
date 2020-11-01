@@ -1,38 +1,40 @@
 Installed apps: 
 
-  7zip 19.00 *hold*
-  busybox 3578-g359211429
-  crystaldiskinfo 8.8.5 *hold* [extras]
-  dark 3.11.2 *global*
-  dark 3.11.2
-  dirhash 1.12.0
-  dotnet-sdk 3.1.402
-  everything 1.4.1.988 [extras]
-  ffmpeg 4.3.1
+  7zip 19.00 *hold* [main]
+  busybox 3578-g359211429 [main]
+  crystaldiskinfo 8.8.9 [extras]
+  dark 3.11.2 *global* [main]
+  dark 3.11.2 [main]
+  dirhash 1.13.0 [main]
+  dismplusplus 10.1.1001.10 [extras]
+  dotnet-sdk 3.1.402 *hold* [main]
+  everything 1.4.1.992 [extras]
+  ffmpeg 4.3.1-22 [main]
   fiddler 5.0.20202.18177 [extras]
   geekuninstaller 1.4.7.142 [extras]
-  git 2.28.0.windows.1 *hold*
-  github 2.5.5 [extras]
+  git 2.28.0.windows.1 *hold* [main]
+  github 2.5.6 [extras]
   heidisql 11.0 [extras]
-  imagemagick 7.0.10-28 *hold*
-  innounp 0.49
-  lessmsi 1.6.91
-  lessmsi 1.6.91 *global*
+  imagemagick 7.0.10-28 *hold* [main]
+  innounp 0.49 [main]
+  lessmsi 1.7.0 [main]
+  lessmsi 1.7.0 *global* [main]
   listary 5.00.2843 *hold* [extras]
-  notepadplusplus 7.8.9 [extras]
+  notepadplusplus 7.9 [extras]
   openvpn 2.4.9 [extras]
-  powertoys 0.21.1 [extras]
+  potplayer 201021 [extras]
   pycharm 2020.2.1 *hold* [extras]
-  python 3.8.5 *global* *hold*
-  qbittorrent 4.2.5 [extras]
+  python 3.9.0 *global* [main]
+  qbittorrent 4.3.0.1 [extras]
+  rapidcrc 0.3.33 [extras]
   steam nightly-20200727 *hold* [extras]
   sublime-text 3.2.2-3211 *hold* [extras]
-  sudo 0.2020.01.26
-  syncbackfree 9.4.1.1 *hold* [extras]
-  telegram 2.3.0 [extras]
+  sudo 0.2020.01.26 [main]
+  syncbackfree 9.4.2.15 [extras]
+  telegram 2.4.5 [extras]
   typora 0.9.96 [extras]
   unlocker 1.9.0 [extras]
   vlc 3.0.11 [extras]
-  windows-terminal 1.2.2381.0 [extras]
-  winscp 5.17.7 [extras]
+  windows-terminal 1.3.2651.0 [extras]
+  winscp 5.17.8 [extras]
 
